@@ -100,6 +100,3 @@ PlanningResult result = planner.plan(problem);
 ```
 
 ---
-<div align="center">
-  <i>Built with 💡 for academic exploration.</i>
-</div>
